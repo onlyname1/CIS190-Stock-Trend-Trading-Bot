@@ -1,5 +1,5 @@
 # CIS 190 Final Project Proposal- An Duong and Lance Tan
-## High-Frequency Trading Bot
+High-Frequency Trading Bot
 
 ## Premise:
 
